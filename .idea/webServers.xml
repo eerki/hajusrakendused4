@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fea39ec1-647d-466a-8dff-286bef5e878d" name="zone" url="https://hajusrakendus4.tak17pold.itmajakas.ee">
+        <fileTransfer host="tak17pold.itmajakas.ee" port="21" rootFolder="/hajusrakendus4">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
